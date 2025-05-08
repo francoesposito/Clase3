@@ -1,0 +1,2 @@
+Git status Solo muestra el estado actual
+Git add . agrega todos los archivos que no estaban trackeados
